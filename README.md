@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🗺 Buscador de CEP
+## 🗺 Buscador de CEP
   
 </div>
  <br>
@@ -12,7 +12,7 @@
 </div>
 
 
-### 🌐 Demo Url: https://i77buscacep.netlify.app
+#### 🌐 Demo Url: https://i77buscacep.netlify.app
 ou Execute o Arquivo ` index.html `
   
 
